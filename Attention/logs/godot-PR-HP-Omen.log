@@ -1,0 +1,9 @@
+Godot Engine v3.3.2.stable.official - https://godotengine.org
+OpenGL ES 3.0 Renderer: NVIDIA GeForce RTX 2060/PCIe/SSE2
+OpenGL ES Batching: ON
+ 
+Project is missing: D:/OneDrive - Mechatrons Technologies Ltd/DCU/NewPhD/code/Godot/StressGame/project.godot
+Project is missing: D:/OneDrive - Mechatrons Technologies Ltd/DCU/NewPhD/code/Godot/AttentionGame/Attention/project.godot
+Project is missing: D:/OneDrive - Mechatrons Technologies Ltd/DCU/NewPhD/code/Godot/AttentionGame/StressGame_code/project.godot
+**ERROR**: Condition "default_certs != __null" is true.
+   At: modules/mbedtls/crypto_mbedtls.cpp:201:load_default_certificates() - Condition "default_certs != __null" is true.
